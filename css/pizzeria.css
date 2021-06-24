@@ -1,0 +1,33 @@
+body{
+    background-color: #EFECCA;
+    font-family: Helvetica, Arial;
+}
+    nav{
+       
+    }
+        li{
+            background-color: #c03000;
+            display: inline;
+        }
+            li a {
+                margin: auto;
+                background-color: #c03000;
+                padding: 5px;
+                text-decoration: none;
+                color: white;
+            }
+                li a :hover{
+                    background-color: #009900;
+                }
+        h1{
+            color: #c03000;
+        }
+            h2{
+                color: #4BB5C1;
+            }
+
+        footer a{
+            text-decoration: none;
+        }
+        
+       
